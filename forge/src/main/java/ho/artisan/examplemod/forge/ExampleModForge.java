@@ -1,7 +1,7 @@
-package net.examplemod.forge;
+package ho.artisan.examplemod.forge;
 
 import dev.architectury.platform.forge.EventBuses;
-import net.examplemod.ExampleMod;
+import ho.artisan.examplemod.ExampleMod;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 

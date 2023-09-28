@@ -16,7 +16,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.examplemod.fabric.ExampleModFabric"
+      "ho.artisan.examplemod.fabric.ExampleModFabric"
     ]
   },
   "depends": {
