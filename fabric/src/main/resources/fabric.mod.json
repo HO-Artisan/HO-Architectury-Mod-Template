@@ -24,7 +24,7 @@
     "minecraft": ">=1.20.5",
     "architectury": "*"
   },
-  "mixin": [
+  "mixins": [
     "examplemod.fabric.mixins.json", "examplemod.common.mixins.json"
   ]
 }
