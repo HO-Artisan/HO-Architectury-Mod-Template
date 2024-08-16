@@ -14,10 +14,10 @@ This is an example description! Tell everyone what your mod is about!
 #logoFile = ""
 
 [[mixins]]
-config = "examplemod.mixins.json"
+config = "examplemod.neoforge.mixins.json"
 
 [[mixins]]
-config = "examplemod-common.mixins.json"
+config = "examplemod.common.mixins.json"
 
 [[dependencies.examplemod]]
 modId = "neoforge"
